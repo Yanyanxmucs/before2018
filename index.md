@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+#### Before 2018
 
-You can use the [editor on GitHub](https://github.com/Yanyanxmucs/before2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yanyanxmucs/before2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Yan Yan, Min Liu, Si Chen, and Fan Xiao. A novel robust model fitting approach towards multiple-structure data segmentation. Neurocomputing, 239: 181-193, 2017.
+- Taotao Lai, Hanzi Wang, Yan Yan, Guobao Xiao, and David Suter. Efficient guided hypothesis generation for multi-structure epipolar geometry estimation. Computer Vision and Image Understanding, 154: 152-165, 2017.
+- Taotao Lai, Hanzi Wang, Yan Yan, Tat-Jun Chin, Wanlei Zhao. Motion segmentation via a sparsity constraint. IEEE Trans. Intelligent Transportation Systems, 18(4): 973-983, 2017.
+- Li Qiming, Wang Hanzi, Yan Yan, Bo Li, Changwen Chen. Local co-occurrence selection via partial least squares for pedestrian detection. IEEE Transactions on Intelligent Transportation Systems, 2017, 18(6): 1549-1558.
+- Canping Su, Yan Yan, Si Chen, Hanzi Wang. An efficient deep neural networks training framework for robust face recognition. Proceeding of the IEEE Conference on Image Processing, 2017.
+- Lili Lin, Yiwen Zhang, Weini Zhang, Zhihui Chen, Yan Yan, Tianli Yu. A real-time smile elegance detection system: a feature-level fusion and SVM based approach. Electronic Imagining (EI), 2017.
+- 严严,陈日伟,王菡子.基于深度学习的人脸分析研究进展. 厦门大学学报(自然科学版), 56(01):13-24, 2017. （厦门大学学报2018年“优秀论文”）
+- Yan Yan, Hanzi Wang, Si Chen, Xiaochun Cao, and David Zhang. Quadratic projection based feature extraction with its application to biometric recognition. Pattern Recognition 56:40-49, 2016.
+- Qiming Li, Yan Yan, and Hanzi Wang. Discriminative weighted sparse partial least squares for human detection. IEEE Transactions on Intelligent Transportation Systems, 17(4):1062-1071, 2016.
+- Si Chen, Shaozi Li, Rongrong Ji, Yan Yan, and Shunzhi Zhu. Discriminative local collaborative representation for online object tracking. Knowlege-Based Systems, 100: 13-24, 2016.
+- Guobao Xiao, Hanzi Wang, Yan Yan, and David Suter. Superpixel-based two-view deterministic fitting for multiple-structure data. Proceedings of the European Conference on Computer Vision, 2016.
+- Yuan Fang, Yan Yan, Si Chen, Hanzi Wang, and Chang Shu. Sparse similarity metric learning for kinship verification. Proceedings of the IEEE International Conference on Visual Communications and Image Processing (VCIP), 2016.
+- Si Chen, and Yan Yan. Discriminative local difference patterns for robust face recognition. Electronics Letters, 51(25):2108–2109, 2015.
+- Hanzi Wang, Guobao Xiao, Yan Yan, and David Suter, Mode-seeking on Hypergraphs for robust geometric model fitting. Proceedings of the International Conference on Computer Vision (ICCV), 2015.
+- Yan Yan, Chunhua Shen, and Hanzi Wang. Efficient semidefinite spectral clustering via Lagrange duality. IEEE Transactions on Image Processing (TIP), 23(8):3522-3534, 2014. 
+- Yan Yan, Hanzi Wang, and David Suter. Multi-subregion based correlation filter bank for robust face recognition. Pattern Recognition (PR), 47(11):3487-3501, 2014.
+- 沈媛媛, 严严, 王菡子. 有监督的距离度量学习算法研究进展. 自动化学报, 40(12): 2673-2686, 2014.
+- Yan Yan and Yujin Zhang, 1-D correlation filter based class-dependence feature analysis for face recognition, Pattern Recognition (PR), 41(12):3834-3841, 2008.
+- Yan Yan and Yujin Zhang, Discriminant projection embedding for face and palmprint recognition, Neurocomputing, 71(16):3534-3543, 2008. 
+- Yan Yan and Yujin Zhang, Tensor correlation filter based class-dependence feature analysis for face recognition, Neurocomputing, 2008, 71(16):3434-3438.
+- Yan Yan and Yujin Zhang, A novel class-dependence feature analysis for face recognition, Pattern Recognition Letters (PRL), 2008, 29(14):1907-1914.
+- Yan Yan and Yujin Zhang, Multimodal biometrics fusion using correlation filter bank. Proceedings of the IEEE Conference on Pattern Recognition (ICPR), 2008. (ORAL)
+- 严严，章毓晋. 混合监督线性子空间方法及其在人脸识别中的应用, 中国科技论文在线, 2008.
+- 严严,章毓晋. 基于视频的人脸识别研究进展. 计算机学报, 32(5):878-886, 2009.
+- Bo Han, Yan Yan, Zhenghua Chen, Chang Liu and Weiguo Wu, A general framework for automatic on-line replay detection in sports video. Proceedings of ACM Multimedia (MM), 2009.
